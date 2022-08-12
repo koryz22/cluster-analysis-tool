@@ -4,8 +4,9 @@ Visualize your excel data to make cluster analysis easier!
 
 ## Getting Started
 
-1. Install the necessary imports onto your computer (ex: pip install).
-2. Simply run the program with a source-code editor.
+1. Create a virtual environment (venv) [Video Guide](https://www.youtube.com/watch?v=OSCzB3zg9A4&ab_channel=StudySession) or [Tutorial](https://docs.python.org/3/library/venv.html)
+2. Install the necessary imports onto your computer (ex: pip install).
+3. Simply run the program with a source-code editor.
 
 ## General GUI Flow
 
