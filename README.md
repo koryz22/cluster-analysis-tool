@@ -4,7 +4,7 @@ Visualize your excel data to make cluster analysis easier!
 
 ## Getting Started
 
-1. Create a virtual environment (venv) [Video Guide](https://www.youtube.com/watch?v=OSCzB3zg9A4&ab_channel=StudySession) or [Tutorial](https://docs.python.org/3/library/venv.html)
+1. Install Tkinter / Create a virtual environment. [Video Guide](https://www.youtube.com/watch?v=OSCzB3zg9A4&ab_channel=StudySession)
 2. Install the necessary imports onto your computer (ex: pip install).
 3. Simply run the program with a source-code editor.
 
